@@ -1,5 +1,8 @@
 _repo: Sanguines_51725
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 51725-h/images/cover.jpg
 creator:
   author:
     agent_name: Louÿs, Pierre
@@ -15,6 +18,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1554
     wikipedia: http://en.wikipedia.org/wiki/Pierre_Lou%C3%BFs
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/51725#Sanguines
 gutenberg_bookshelf: FR Littérature
 gutenberg_issued: '2016-04-10'
 gutenberg_type: Text
