@@ -1,0 +1,37 @@
+_repo: Sanguines_51725
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Louÿs, Pierre
+    aliases:
+    - Louis, Pierre-Felix
+    - Louys, Pierre
+    - Chrysis, Pierre
+    - Pierre Louÿs
+    - Louis, Pierre-Félix
+    birthdate: 1870
+    deathdate: 1925
+    gutenberg_agent_id: '1554'
+    url: http://www.gutenberg.org/2009/agents/1554
+    wikipedia: http://en.wikipedia.org/wiki/Pierre_Lou%C3%BFs
+description: ''
+gutenberg_bookshelf: FR Littérature
+gutenberg_issued: '2016-04-10'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '51725'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PQ'
+- !lcsh 'Short stories, French'
+- !lcsh 'French fiction -- 20th century'
+- GITenberg
+tableOfContents: L'homme de pourpre -- Dialogue au soleil couchant -- Une volupté
+  nouvelle -- Escale en rade de Nemours -- La fausse Esther -- La confession de Mlle
+  X -- L'aventure extraordinaire de Madame Esquollier -- Une ascension au Venusberg
+  -- La persienne -- L'in-plano.
+title: Sanguines
+url: http://www.gutenberg.org/ebooks/51725
